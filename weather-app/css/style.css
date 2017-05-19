@@ -1,0 +1,22 @@
+#main{
+ background-size: cover;
+  height: 710px;
+  color: white;
+}
+
+#outputBox{
+  margin-top: 10%;
+}
+
+#userCity{
+  font-size: 50px;
+}
+
+#weather{
+  font-size: 80px;
+}
+
+#icon{
+  height: 100px;
+}
+
